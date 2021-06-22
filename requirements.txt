@@ -1,0 +1,5 @@
+selenium
+PIL 
+os
+requests
+bs4
